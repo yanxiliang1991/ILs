@@ -1,1 +1,1 @@
-# Machine-learning-for-ionic-liquids-enzyme-toxicity
+# Machine-learning-for-ionic-liquids-enzyme-toxicity-prediction
