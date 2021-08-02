@@ -1,0 +1,1 @@
+The in-house kNN model can be obtained from http://chembench.mml.unc.edu or from the corresponding author (yanxiliang1991@163.com).
